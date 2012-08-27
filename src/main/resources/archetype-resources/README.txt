@@ -1,4 +1,4 @@
-This project is built using Tycho (http://tycho.sonatype.org/) and requires at least maven 3.0 (http://maven.apache.org/download.html) to be built via CLI. 
+This project is built using Tycho (http://www.eclipse.org/tycho/) and requires at least maven 3.0 (http://maven.apache.org/download.html) to be built via CLI. 
 Simply run :
 
     mvn install
