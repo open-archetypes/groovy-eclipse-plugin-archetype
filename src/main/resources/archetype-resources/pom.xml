@@ -31,7 +31,7 @@
     <repository>
         <id>groovy-eclipse</id>
         <layout>p2</layout>
-        <url>http://dist.codehaus.org/groovy/distributions/greclipse/snapshot/e3.7</url>
+        <url>http://dist.codehaus.org/groovy/distributions/greclipse/snapshot/e4.2</url>
         <releases>
             <enabled>true</enabled>
         </releases>
